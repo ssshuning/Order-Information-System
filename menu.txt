@@ -1,0 +1,7 @@
+1,apple juice,5.0,0.2
+2,orange juice,8.0,0.2
+3,pear juice,8.0,0.2
+4,watermelon juice,6.0,0.2
+5,kiwifruit juice,9.0,0.2
+6,strawberry juice,5.0,0.2
+

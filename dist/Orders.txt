@@ -1,0 +1,8 @@
+Customer: fdsa from req buys:
+ 
+6.0 apple juice
+for 30.024 dollars
+Customer: shuning from franklin buys:
+ 
+2.0 apple juice
+for 10.008 dollars
